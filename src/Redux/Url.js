@@ -1,1 +1,1 @@
-export const URL = process.env.REACT_APP_SERVER_URL;
+export const URL = 'http://103.151.238.40/';
